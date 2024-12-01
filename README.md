@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppshu-web
+- 👋 Hi, I’m Json_Grigg
 
 <!---
 ppshu-web/ppshu-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
